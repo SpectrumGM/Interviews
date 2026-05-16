@@ -1,6 +1,5 @@
 # Vector Databases & Embeddings — 10 Core Concepts
 
-> Source: [@ConsciousRide](https://x.com/ConsciousRide/status/2048064390642200744) · Apr 25, 2026
 
 ## Core Summary
 
