@@ -1,6 +1,5 @@
 # AI Engineer Interview — 12 Core Concepts (Master Overview)
 
-> Source: [@ConsciousRide](https://x.com/ConsciousRide/status/2044471256846897155) · Apr 15, 2026 · 241K views
 
 ## Core Summary
 
